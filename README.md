@@ -1,0 +1,2 @@
+# Java-Exercises-Tester
+課題で出したJavaのプログラムをコンパイルしてJUnitでテストする感じのやつ
